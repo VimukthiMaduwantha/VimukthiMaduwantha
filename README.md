@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimukthimaduwantha&label=Profile%20views&color=0e75b6&style=flat" alt="vimukthimaduwantha" /> </p>
 
-- 🌱 I’m currently learning **Tailwindcss**
-
 - 👨‍💻 All of my projects are available at [https://vimukthi-maduwantha.vercel.app/](https://vimukthi-maduwantha.vercel.app/)
 
 - 💬 Ask me about **MERN, .NET core, Android**
