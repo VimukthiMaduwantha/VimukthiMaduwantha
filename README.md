@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimukthimaduwantha&label=Profile%20views&color=0e75b6&style=flat" alt="vimukthimaduwantha" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://vimukthi-maduwantha.vercel.app/](https://vimukthi-maduwantha.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://vimukthi-maduwantha.vercel.app/](https://vimuus.com/)
 
 - 💬 Ask me about **MERN, .NET core, Android**
 
