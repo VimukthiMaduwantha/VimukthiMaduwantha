@@ -6,8 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [https://vimuus.com/](https://vimuus.com/)
 
-- 💬 Ask me about **MERN, .NET core, Android**
-
 - 📫 How to reach me **maduwanthavimukthi@gmail.com**
 
 - ⚡ Fun fact **I am funny..**
